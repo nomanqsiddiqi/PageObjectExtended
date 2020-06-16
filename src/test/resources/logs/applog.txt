@@ -1,0 +1,12 @@
+INFO    2020-06-16 10:31:40,608 [main] com.w2a.zoho.PageObjects.BasePage  - Configuration file loaded !!!!
+INFO    2020-06-16 10:31:41,955 [TestNG-PoolService-1] com.w2a.zoho.PageObjects.BasePage  - Inside Login Test
+INFO    2020-06-16 10:31:41,955 [TestNG-PoolService-0] com.w2a.zoho.PageObjects.BasePage  - Inside Login Test
+INFO    2020-06-16 10:31:41,973 [TestNG-PoolService-0] com.w2a.zoho.PageObjects.BasePage  - Inside Login Test
+INFO    2020-06-16 10:31:47,194 [TestNG-PoolService-0] com.w2a.zoho.PageObjects.BasePage  - Starting the grid session !!!
+INFO    2020-06-16 10:31:47,194 [TestNG-PoolService-0] com.w2a.zoho.PageObjects.BasePage  - chrome browser launched - Remote webdriver !!!
+INFO    2020-06-16 10:31:47,251 [TestNG-PoolService-0] com.w2a.zoho.PageObjects.BasePage  - Starting the grid session !!!
+INFO    2020-06-16 10:31:47,251 [TestNG-PoolService-0] com.w2a.zoho.PageObjects.BasePage  - chrome browser launched - Remote webdriver !!!
+INFO    2020-06-16 10:31:48,428 [TestNG-PoolService-1] com.w2a.zoho.PageObjects.BasePage  - Starting the grid session !!!
+INFO    2020-06-16 10:31:48,428 [TestNG-PoolService-1] com.w2a.zoho.PageObjects.BasePage  - firefox browser launched - Remote webdriver !!!
+INFO    2020-06-16 10:31:59,573 [TestNG-PoolService-0] com.w2a.zoho.PageObjects.BasePage  - Text Execution Completed !!!
+INFO    2020-06-16 10:32:11,405 [TestNG-PoolService-0] com.w2a.zoho.PageObjects.BasePage  - Text Execution Completed !!!

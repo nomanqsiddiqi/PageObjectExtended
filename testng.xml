@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="master" parallel="tests">
+    <listeners>
+        <listener class-name="com.w2a.zoho.ExtentListeners.ExtentListeners"/>
+    </listeners>
+    <test name="Login Test">
+        <classes>
+            <class name="com.w2a.zoho.testcases.LoginTest"/>
+        </classes>
+    </test>
+    <test name="Validate CRM Test">
+        <classes>
+            <class name="com.w2a.zoho.testcases.ValidateCRMTest"/>
+        </classes>
+    </test>
+</suite>

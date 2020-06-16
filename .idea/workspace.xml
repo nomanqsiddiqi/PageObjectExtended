@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="793206bf-4871-457f-991d-e10af3ca3b07" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d3oW9G3O8ORt3IdkBLC3H3V0Vn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/w2a/zoho/ExtentListeners" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.w2a.zoho.PageObjects" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.w2a.zoho.rough" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\tools\workspace\PageObjectExtended\src\main\java\com\w2a\zoho\ExtentListeners" />
+      <recent name="C:\tools\workspace\PageObjectExtended\src\test\resources\excel" />
+      <recent name="C:\tools\workspace\PageObjectExtended\src\main\java\com\w2a\zoho\utilities" />
+      <recent name="C:\tools\workspace\PageObjectExtended\src\test\resources" />
+      <recent name="C:\tools\workspace\PageObjectExtended\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.w2a.zoho.rough" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\tools\workspace\PageObjectExtended\reports" />
+      <recent name="C:\tools\workspace\PageObjectExtended\src\test\resources\testdata" />
+      <recent name="C:\tools\workspace\PageObjectExtended\src\test\resources\excel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/tools/workspace/PageObjectExtended/testng.xml">
+    <configuration name="CheckOS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.w2a.zoho.rough.CheckOS" />
+      <module name="PageObjectExtended" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.w2a.zoho.rough.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reminder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.w2a.zoho.rough.Reminder" />
+      <module name="PageObjectExtended" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.w2a.zoho.rough.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/tools/workspace/PageObjectExtended/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObjectExtended" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObjectExtended" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.w2a.zoho.rough.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.w2a.zoho.rough" />
+      <option name="MAIN_CLASS_NAME" value="com.w2a.zoho.rough.TestCase2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="logs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObjectExtended" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="logs" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testng.xml" type="TestNG" singleton="false">
+      <module name="PageObjectExtended" />
+      <useClassPathOnly />
+      <extension name="coverage" track_test_folders="true">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="browser" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/tools/workspace/PageObjectExtended/testng.xml" />
+        <item itemvalue="TestNG.TestCase2" />
+        <item itemvalue="Application.Reminder" />
+        <item itemvalue="Application.CheckOS" />
+        <item itemvalue="TestNG.logs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="793206bf-4871-457f-991d-e10af3ca3b07" name="Default Changelist" comment="" />
+      <created>1591663166488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591663166488</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1592076732745">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1592076732745" />
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591978143363">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1591978143363" />
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser" timestamp="1592318373300">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1592318373300" />
+    <state x="438" y="200" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592171733437">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="200" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1592171733437" />
+    <state x="352" y="13" key="#runner" timestamp="1591715883549">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="352" y="13" key="#runner/0.0.1280.680@0.0.1280.680" timestamp="1591715883549" />
+    <state x="352" y="13" width="591" height="654" key="#testng.xml" timestamp="1591715983790">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="352" y="13" width="591" height="654" key="#testng.xml/0.0.1280.680@0.0.1280.680" timestamp="1591715983790" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1592002199848">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1592002199848" />
+    <state x="442" y="82" key="FileChooserDialogImpl" timestamp="1591998258862">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="442" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591998258862" />
+    <state width="1237" height="348" key="GridCell.Tab.0.bottom" timestamp="1592317654843">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="348" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592317654843" />
+    <state width="1237" height="348" key="GridCell.Tab.0.center" timestamp="1592317654842">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="348" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592317654842" />
+    <state width="1237" height="348" key="GridCell.Tab.0.left" timestamp="1592317654841">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="348" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592317654841" />
+    <state width="1237" height="348" key="GridCell.Tab.0.right" timestamp="1592317654843">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="348" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592317654843" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1591834211316">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1591834211316" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1591998363685">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1591998363685" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1592145398452">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1592145398452" />
+    <state x="302" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592150153446">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="302" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1592150153446" />
+    <state x="412" y="44" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1592268133958">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="44" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1592268133958" />
+    <state width="602" height="245" key="javadoc.popup" timestamp="1591972722599">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="602" height="245" key="javadoc.popup/0.0.1280.680@0.0.1280.680" timestamp="1591972722599" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PageObjectExtended$C__tools_workspace_PageObjectExtended_testng_xml.ic" NAME="$PROJECT_DIR$/testng.xml Coverage Results" MODIFIED="1591997999897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
